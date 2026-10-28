@@ -17,6 +17,8 @@ No external npm dependencies are required.
 - Producer–Consumer: railway request train, bounded buffer, semaphore steps, manual single operations, and independently enabled automatic producer/consumer workers.
 - Banker’s Algorithm: Need matrix, safe-sequence analysis, and request evaluation.
 - Memory Management: Fixed partitioning and Variable partitioning have distinct allocation models. Fixed partitions are predefined and show internal fragmentation; variable allocation splits dynamically sized free holes. First Fit, Best Fit, and Worst Fit are supported.
+- <img width="1515" height="817" alt="image" src="https://github.com/user-attachments/assets/84057e4b-bcd4-4934-9843-eb9576270873" />
+
 
 History is stored in the current browser using localStorage. This is a local educational simulation, not a live railway booking system.
 
