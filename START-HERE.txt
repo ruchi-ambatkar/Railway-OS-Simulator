@@ -1,0 +1,11 @@
+ALGOBUZZ — START HERE
+
+1. Extract this ZIP.
+2. Open the Algobuzz folder in VS Code.
+3. Terminal > New Terminal
+4. Run: npm start
+5. Open: http://localhost:3000
+
+Producer–Consumer includes the railway train and bounded-buffer animation, individual produce/consume actions, and independent Auto Producer / Auto Consumer controls. Memory Management has distinct Fixed and Variable Partitioning modes.
+
+Memory Management defaults: fixed mode uses four equal 256 KB partitions; variable mode allocates the default requests (130, 250, 100, 115 KB) into dynamically sized blocks.
